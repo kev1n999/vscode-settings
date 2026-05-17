@@ -5,14 +5,15 @@
     "workbench.layoutControl.enabled": false,
     "chat.commandCenter.enabled": false,
     "workbench.startupEditor": "none",
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "charmed-soft",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block",
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "editor.smoothScrolling": true,
-    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontFamily": "Agave Nerd Font",
+    "editor.fontSize": 17,
     "typescript.updateImportsOnFileMove.enabled": "always",
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -20,5 +21,16 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "files.autoSave": "afterDelay",
     "workbench.editor.enablePreview": true,
-    "workbench.editor.enablePreviewFromQuickOpen": true
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.colorTheme": "Min Darker Theme (by GmsGarcia)",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "*.mutable": {
+                "underline": false,
+            }
+        }
+    },
 }
