@@ -1,0 +1,55 @@
+{
+    "workbench.activityBar.location": "bottom",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "block",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+    "editor.fontSize": 15.3,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "*.mutable": {
+                "underline": false,
+            }
+        }
+    },
+    "chat.titleBar.signIn.enabled": false,
+    "workbench.browser.showInTitleBar": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "rust-analyzer.check.command": "check",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "haskell.manageHLS": "PATH",
+    "git.autofetch": true,
+    "background.windowBackgrounds": [],
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#de2fcc",
+    }
+}
